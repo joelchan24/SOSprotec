@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "PROYECTO\GUI.csproj", "{D95E7436-5742-489F-91E7-E070DC78D356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{DCDD5123-367E-48E8-94DC-ABB5D1CDAA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{A63A0AB0-BFDD-4674-B9D0-68E2A42D32AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95E7436-5742-489F-91E7-E070DC78D356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95E7436-5742-489F-91E7-E070DC78D356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95E7436-5742-489F-91E7-E070DC78D356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95E7436-5742-489F-91E7-E070DC78D356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDD5123-367E-48E8-94DC-ABB5D1CDAA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDD5123-367E-48E8-94DC-ABB5D1CDAA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDD5123-367E-48E8-94DC-ABB5D1CDAA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDD5123-367E-48E8-94DC-ABB5D1CDAA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63A0AB0-BFDD-4674-B9D0-68E2A42D32AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63A0AB0-BFDD-4674-B9D0-68E2A42D32AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63A0AB0-BFDD-4674-B9D0-68E2A42D32AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63A0AB0-BFDD-4674-B9D0-68E2A42D32AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
